@@ -1,4 +1,4 @@
-# Name: Online-Symptom-Cheker
+# Name: Online-Symptom-Cheker website
 ## Author
 [Sudha Yadav]
 ## Project Setup Instructions
