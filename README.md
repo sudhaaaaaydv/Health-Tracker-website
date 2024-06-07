@@ -1,4 +1,4 @@
-# Name: Online-Symptom-Cheker website
+# Name: Online-Health-Tracker- website
 ## Author
 [Sudha Yadav]
 ## Project Setup Instructions
