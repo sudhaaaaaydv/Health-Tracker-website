@@ -1,13 +1,13 @@
 # Name: Online-Health-Tracker- website
 ## Author
-[Sudha Yadav]
+Sudha Yadav
 ## Project Setup Instructions
 To start using this project use the following commands:
 
 
 
 ## Technology Used:
-HTML/CSS/JAVASCRIPTS/JQuery
+HTML,CSS,JAVASCRIPTS/JQuery
 
 ## Purpose:
 
